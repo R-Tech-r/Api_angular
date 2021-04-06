@@ -1,0 +1,19 @@
+[{
+    "deviceId": 1001,
+    "deviceName": "Pump",
+    "status": "Running",
+    "lastServiceDate": "28/12/2020"
+   },
+   {
+    "deviceId": 1002,
+    "deviceName": "Chiller",
+    "status": "Running",
+    "lastServiceDate": "02/01/2021"
+   }, {
+    "deviceId": 1003,
+    "deviceName": "Elevator",
+    "status": "Idle",
+    "lastServiceDate": "14/06/2020"
+   }
+  
+  ]
